@@ -5,6 +5,6 @@
     <title>ex5</title>
   </head>
   <body>
-    <p><?php $name = "Demba"; echo 'Bonjour '.$name. ' comment vas tu ? '; ?></p>
+    <p><?php $int = 'lol'; echo $int; ?></p>
   </body>
 </html>
