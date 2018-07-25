@@ -5,6 +5,6 @@
     <title>ex5</title>
   </head>
   <body>
-    <p><?php $lastName = "Demba";  $firstName = "Sylla"; $age = 23; echo 'Bonjour '.$lastName. ' '.$firstName. ' '. 'tu as '. $age. 'ans.' ; ?></p>
+    <p><?php $name = "Demba"; echo 'Bonjour '.$name. ' comment vas tu ? '; ?></p>
   </body>
 </html>
